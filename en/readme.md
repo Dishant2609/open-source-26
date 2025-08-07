@@ -6,4 +6,4 @@ This is My First OpenSource Contribution.
 
 Ashish Kumar
 
-dikshant dibbey
+dikshant soni 
